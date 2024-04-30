@@ -1,0 +1,14 @@
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\lab28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\lab28.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\lab28.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\lab28.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\lab28\lab28\bin\Debug\net6.0\lab28.exe
+C:\Users\I'm Pasha\source\repos\lab28\lab28\bin\Debug\net6.0\lab28.deps.json
+C:\Users\I'm Pasha\source\repos\lab28\lab28\bin\Debug\net6.0\lab28.runtimeconfig.json
+C:\Users\I'm Pasha\source\repos\lab28\lab28\bin\Debug\net6.0\lab28.dll
+C:\Users\I'm Pasha\source\repos\lab28\lab28\bin\Debug\net6.0\lab28.pdb
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\lab28.dll
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\refint\lab28.dll
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\lab28.pdb
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\lab28.genruntimeconfig.cache
+C:\Users\I'm Pasha\source\repos\lab28\lab28\obj\Debug\net6.0\ref\lab28.dll
